@@ -13,7 +13,12 @@ namespace C_sharp_Language
             //OddEven.evenodd();
             // Factorial.fact();
             // number_is__greater_0.Zero();
-            table.tbl();
+            // table.tbl();
+            //String.Upper();
+            //Questions.Que();
+            //Fibonacci.fib();
+            //Switch.sw();
+            armstrong.arm();
         }
     }
 }

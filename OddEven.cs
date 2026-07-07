@@ -1,29 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Text;
 
-namespace C_sharp_Language
-{
-    public class OddEven
-    {
-        public static void evenodd()
-        {
-            int number;
-            Console.Write("Enter a number :");
+//namespace C_sharp_Language
+//{
+//    public class OddEven
+//    {
+//        public static void evenodd()
+//        {
+//            int number;
+//            Console.Write("Enter a number :");
 
-            number = Convert.ToInt32(Console.ReadLine());
+//            number = Convert.ToInt32(Console.ReadLine());
 
-            // number str = Console.ReadLIne();
-            // number = Convert.ToInt32(str);
+//            // number str = Console.ReadLIne();
+//            // number = Convert.ToInt32(str);
 
-            if (number % 2 == 0)
-            {
-                Console.WriteLine("Number is Even");
-            }
-            else
-            {
-                Console.WriteLine("Number is Odd");
-            }
-        }
-    }
-}
+//            if (number % 2 == 0)
+//            {
+//                Console.WriteLine("Number is Even");
+//            }
+//            else
+//            {
+//                Console.WriteLine("Number is Odd");
+//            }
+//        }
+//    }
+//}
