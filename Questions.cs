@@ -7,7 +7,7 @@ namespace C_sharp_Language
     internal class Questions
     {
         public static void Que()
-        {
+        { 
             string name;
             char gender;
 

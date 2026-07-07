@@ -15,7 +15,7 @@ namespace C_sharp_Language
             original = number;
             while (number != 0)
             {
-                reminder = number % 10;
+                reminder = number % 10; 
                 result = result + (reminder * reminder * reminder);
                 number = number / 10;
             }
