@@ -19,7 +19,9 @@ namespace C_sharp_Language
             //Fibonacci.fib();
             //Switch.sw();
             //armstrong.arm();
-            programs.prg();
+            //programs.prg();
+            //pattern.ptr();
+            t2_1.tutorial();
         }
     }
 }
