@@ -21,7 +21,9 @@ namespace C_sharp_Language
             //armstrong.arm();
             //programs.prg();
             //pattern.ptr();
-            t2_1.tutorial();
+            //t2_1.tutorial();
+            //t2_2.tutorial();
+            operators.opr();
         }
     }
 }
