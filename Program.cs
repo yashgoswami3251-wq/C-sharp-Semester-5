@@ -11,14 +11,15 @@ namespace C_sharp_Language
         public static void Main(string[] args) 
         {
             //OddEven.evenodd();
-            // Factorial.fact();
+            //Factorial.fact();
             // number_is__greater_0.Zero();
             // table.tbl();
             //String.Upper(); 
             //Questions.Que();
             //Fibonacci.fib();
             //Switch.sw();
-            armstrong.arm();
+            //armstrong.arm();
+            programs.prg();
         }
     }
 }
