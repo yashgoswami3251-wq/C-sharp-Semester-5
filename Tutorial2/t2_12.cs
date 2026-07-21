@@ -23,7 +23,7 @@ namespace C_sharp_Language.Tutorial2
 
             Console.WriteLine("Enter Element to Search:");
             search = Convert.ToInt32(Console.ReadLine());
-
+             
             for(int i = 0; i<n; i++) {
                 if (arr[i] == search)
                 {
