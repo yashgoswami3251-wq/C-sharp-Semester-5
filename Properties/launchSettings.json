@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "C sharp Language": {
+      "commandName": "Project",
+      "commandLineArgs": "A B C D\r\n"
+    }
+  }
+}
