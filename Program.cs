@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using C_sharp_Language.Tutorial2;
+using C_sharp_Language.Tutorial3;
 
 
 namespace C_sharp_Language
@@ -40,7 +41,12 @@ namespace C_sharp_Language
             //t2_7.five();
             //TestOut.Run();
             //t2_11.arr();
-            t2_12.nine();
+            //t2_12.nine();
+            //t2_9.repeat();
+            //t2_10.matrix();
+            //t2_13.notes();
+
+            t3_1.oop();
 
         }
     }
