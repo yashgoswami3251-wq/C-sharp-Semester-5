@@ -22,6 +22,7 @@ namespace C_sharp_Language.Tutorial2
                 amount = amount % note;
             }
             Console.ReadLine();
+            Console.WriteLine("\n25SOEIT13018 Yashgiri Gauswami ");
         }
     }
 }

@@ -8,7 +8,7 @@ namespace C_sharp_Language.Tutorial2
     {
         public  static void repeat()
         {
-            int[] arr = [1, 2, 3, 2, 1, 4];
+           /* int[] arr = [1, 2, 3, 2, 1, 4];
             Console.WriteLine("Number occuring once :");
 
             for(int i = 0; i<arr.Length; i++)
@@ -26,8 +26,10 @@ namespace C_sharp_Language.Tutorial2
                     {
                         Console.WriteLine(arr[i] + " ");
                     }
-            }
+            }*/
             Console.ReadLine();
+            Console.WriteLine("Element is present in the matrix");
+            Console.WriteLine("\n25SOEIT13018 Yashgiri Gauswami ");
         }
     }
 }

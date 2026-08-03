@@ -8,17 +8,19 @@ namespace C_sharp_Language.Tutorial2
     {
         public static void tutorial()
         {
-            char firstname = 'Y';
-            char lastname = 'A';
-
-            Console.WriteLine("Name: " + firstname + " " + lastname);
-            Console.WriteLine("Please enter a new first name:");
-
-            firstname = Convert.ToChar(Console.ReadLine());
-
-
-            Console.WriteLine("New name: " +  firstname + " " + lastname);
+            int a = 100;
+            if (a < 20)
+            {
+                Console.WriteLine("a is less than 20");
+            }
+            else
+            {
+                Console.WriteLine("a is not less than 20");
+            }
+            Console.WriteLine("Value of a is : {0}", a);
             Console.ReadLine();
+            Console.WriteLine("\n25SOEIT13018 Yashgiri Gauswami ");
+
         }
     }
 }

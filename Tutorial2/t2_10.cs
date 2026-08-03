@@ -8,38 +8,42 @@ namespace C_sharp_Language.Tutorial2
     {
         public static void matrix()
         {
-            static int MatSearch(int[,] mat,int n, int m , int x)
+            static int matsearch(int[,] mat, int n, int m, int x)
             {
                 int row = 0;
-                int col = m-1;
-
-                while(row<n && col >= 0)
+                int col = m - 1;
+                while (row < n && col >= 0)
                 {
                     if (mat[row, col] == x)
                         return 1;
-
                     else if (mat[row, col] > x)
                         col--;
-
                     else
                         row++;
                 }
                 return 0;
             }
-
             static void Main(string[] args)
             {
-                int[,] mat =
-                {
-                    {20,56,12 },
-                    {34,51,76 },
-                    {98,23,43 }
-                };
+                int[,] mat = {
+                { 10, 20, 30 },
+                { 15, 25, 35 },
+                { 27, 29, 37 }
+            };
 
-                int result = MatSearch(mat, 3, 3, 12);
-                Console.WriteLine(result);
-                Console.ReadLine();
+                int result = matsearch(mat, 3, 3, 37);
+
+                if (result == 1)
+                {
+                    Console.WriteLine("Element  is present in the matrix.");
+                }
+                else
+                {
+                    Console.WriteLine("Element is not present in the matrix.");
+                }
+                Console.WriteLine("\n25SOEIT13018 Yashgiri Gauswami ");
             }
+
         }
     }
 }

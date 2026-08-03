@@ -8,15 +8,14 @@ namespace C_sharp_Language.Tutorial2
     {
         public static void tutorial()
         {
-            int number = 10;
-            if(number < 20)
+            int a = 10;
+            if (a < 20)
             {
-                Console.WriteLine("NUmber is lessthan 20");
+                Console.WriteLine("a is less than 20");
             }
-            else
-            {
-                Console.WriteLine("Number is greater than 20");
-            }
+            Console.WriteLine("value of a is : {0}", a);
+            Console.ReadLine();
+            Console.WriteLine("\n25SOEIT13018 Yashgiri Gauswami");
         }
     }
 }
