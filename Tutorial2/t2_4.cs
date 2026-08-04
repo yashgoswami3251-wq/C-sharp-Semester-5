@@ -68,7 +68,7 @@ namespace C_sharp_Language.Tutorial2
             Console.WriteLine("Character : " + grade);
             Console.WriteLine("String : " + name);
             Console.WriteLine("Boolean : " + result);
-            Console.WriteLine("25SOEIT13018 Yashgiri Gauswami ");
+            Console.WriteLine("25SOECE13045 Pritesh Bharadwa");
 
         }
     }

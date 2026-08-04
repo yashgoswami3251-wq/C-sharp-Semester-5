@@ -29,7 +29,7 @@ namespace C_sharp_Language.Tutorial2
             }*/
             Console.ReadLine();
             Console.WriteLine("Element is present in the matrix");
-            Console.WriteLine("\n25SOEIT13018 Yashgiri Gauswami ");
+            Console.WriteLine("\n25SOECE13045 Pritesh Bharadwa");
         }
     }
 }

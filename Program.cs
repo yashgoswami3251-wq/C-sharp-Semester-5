@@ -45,19 +45,24 @@ namespace C_sharp_Language
             //t2_9.repeat();
             //t2_10.matrix();
             //t2_13.notes();
-            t2_14.fourteen();
+            //t2_14.fourteen();
             //t2_15.fifteen();
             //t2_1.tutorial();
-            // t2_2.tutorial();
+            //t2_2.tutorial();
             //t2_3.three();
-            //2_4.four();
+            //t2_4.four();
             //t2_5.five();
             //t2_6.six();
             //t2_7.seven();
             //TestOut.Run();
             //t2_9.repeat();
-            //t2_10.tutorial();
+            //t2_10.matrix();
             //t2_15.fifteen();
+
+            //t3_1.tutorial();
+            //t3_2.time();
+            //t3_3.tutorial();
+            t3_4.tutorial();
 
         }
     }

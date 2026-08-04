@@ -25,7 +25,7 @@ namespace C_sharp_Language.Tutorial2
             }
 
             Console.WriteLine("Sum of the N elements is: " + sum);
-            Console.WriteLine("\n25SOEIT13018 Yashgiri Gauswami ");
+            Console.WriteLine("\n25SOECE13045 Pritesh Bharadwa");
 
         }
     }

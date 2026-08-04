@@ -30,7 +30,7 @@ namespace C_sharp_Language.Tutorial2
             Number.Swap(ref x, ref y);
             Console.WriteLine("Value Of X After Swapping: "+x);
             Console.WriteLine("Value Of Y After Swapping: "+y);
-            Console.WriteLine("\n25SOEIT13018 Yashgiri Gauswami ");
+            Console.WriteLine("\n25SOECE13045 Pritesh Bharadwa");
         }
     }
 }

@@ -8,8 +8,8 @@ namespace C_sharp_Language.Tutorial2
     {
         public static void three()
         {
-            string firstName = "Yashgiri";
-            string lastName = "Gauswami";
+            string firstName = "Pritesh";
+            string lastName = "Bharadwa";
             Console.WriteLine("Name: " + firstName + " " + lastName);
             Console.WriteLine("Please enter a new first name:");
             firstName = Console.ReadLine();
