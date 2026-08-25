@@ -70,7 +70,8 @@ namespace C_sharp_Language
             //t3_13.product();
             //t3_14.employee();
             //t3_15.inheritance();
-            t3_16.employee();
+            //t3_16.employee();
+            t3_17.method();
 
         }
     }
