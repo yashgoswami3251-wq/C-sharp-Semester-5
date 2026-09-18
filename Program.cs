@@ -1,9 +1,10 @@
 ﻿using C_sharp_Language;
+using C_sharp_Language.Tutorial2;
+using C_sharp_Language.Tutorial3;
+using C_sharp_Language.Tutorial3._1;
 using System;
 using System.Collections.Generic;
 using System.Text;
-using C_sharp_Language.Tutorial2;
-using C_sharp_Language.Tutorial3;
 
 
 namespace C_sharp_Language
@@ -74,8 +75,18 @@ namespace C_sharp_Language
             //t3_17.method();
             //t3_18.eighteen();
             //t3_19.ninteen();
-            t3_20.twenty();
-
+            //t3_20.twenty();
+            //_1.one();
+            //_8.eight();
+            //_2.two();
+            //_3.three();
+            //_4.four();
+            //_5.five();
+            //_6.six();
+            //_7.seven();
+            //_8.eight(); 
+            //_9.nine();
+            _9_1.nine_one();
         }
     }
 }
