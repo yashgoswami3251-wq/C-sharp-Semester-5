@@ -1,4 +1,5 @@
 ﻿using C_sharp_Language;
+using C_sharp_Language.Paresh_Tanna_sir;
 using C_sharp_Language.Tutorial2;
 using C_sharp_Language.Tutorial3;
 using C_sharp_Language.Tutorial3._1;
@@ -86,7 +87,8 @@ namespace C_sharp_Language
             //_7.seven();
             //_8.eight(); 
             //_9.nine();
-            _9_1.nine_one();
+            //_9_1.nine_one();
+            class_object.yash();
         }
     }
 }
