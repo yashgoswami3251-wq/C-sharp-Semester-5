@@ -1,11 +1,13 @@
 ﻿using C_sharp_Language;
 using C_sharp_Language.Paresh_Tanna_sir;
+using C_sharp_Language.Tutorial_4;
 using C_sharp_Language.Tutorial2;
 using C_sharp_Language.Tutorial3;
 using C_sharp_Language.Tutorial3._1;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using static C_sharp_Language.Tutorial_4.five;
 
 
 namespace C_sharp_Language
@@ -65,7 +67,7 @@ namespace C_sharp_Language
             //t3_2.time();
             //t3_3.tutorial();
             //t3_4.tutorial();
-            //t3_5.Pro5.run(args);
+            //t3_5.Pro5.run(rgs);
             //t3_7.run();
             //t3_11.bank();
             //t3_12.users();
@@ -88,7 +90,20 @@ namespace C_sharp_Language
             //_8.eight(); 
             //_9.nine();
             //_9_1.nine_one();
-            class_object.yash();
+            //class_object.yash();
+
+            //_1.tutorial_4_1();
+            //Employee.tutorial_4_1();
+            //second.tutorial_4_2();
+            //_2.tutorial_4_2();
+            //third.tutorial_4_3();
+            //four.tutorial_4_4();
+            //five.fives();
+            //six.sixes();
+            //seven.sevens();
+            //eight.eights(); 
+            //P9.nines();
+            P10.tens();
         }
     }
 }
