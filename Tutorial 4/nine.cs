@@ -4,7 +4,7 @@ class P9
 {
     public static void nines()
     {
-        Console.WriteLine("Gauswami Yashgiri A." + "25SOEIT13018");
+        Console.WriteLine("Kalariya Marmik S." + "25SOECE13063");
         int x = 0;
         try
         {

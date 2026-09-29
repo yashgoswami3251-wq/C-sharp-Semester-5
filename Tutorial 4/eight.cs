@@ -48,7 +48,7 @@ namespace C_sharp_Language.Tutorial_4
 
             {
 
-            Console.WriteLine("Gauswami Yashgiri A." + "25SOEIT13018");
+            Console.WriteLine("Kalariya Marmik S." + "25SOECE13063");
 
 
             X Obj1 = new X();

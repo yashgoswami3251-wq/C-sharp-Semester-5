@@ -92,18 +92,22 @@ namespace C_sharp_Language
             //_9_1.nine_one();
             //class_object.yash();
 
-            //_1.tutorial_4_1();
+
             //Employee.tutorial_4_1();
             //second.tutorial_4_2();
-            //_2.tutorial_4_2();
             //third.tutorial_4_3();
             //four.tutorial_4_4();
             //five.fives();
             //six.sixes();
             //seven.sevens();
-            //eight.eights(); 
+            //eight.eights();
             //P9.nines();
-            P10.tens();
+            //P10.tens();
+
+
+            //_2.tutorial_4_2();
+
+            @delegate.delegate_example();
         }
     }
 }

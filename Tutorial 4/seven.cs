@@ -27,7 +27,7 @@ namespace C_sharp_Language.Tutorial_4
             public static void sevens()
 
             {
-            Console.WriteLine("Gauswami Yashgiri A." + "25SOEIT13018");
+            Console.WriteLine("Kalariya Marmik S." + "25SOECE13063");
 
             A sc = new A();
 
