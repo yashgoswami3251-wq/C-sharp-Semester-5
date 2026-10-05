@@ -4,6 +4,7 @@ using C_sharp_Language.Tutorial_4;
 using C_sharp_Language.Tutorial2;
 using C_sharp_Language.Tutorial3;
 using C_sharp_Language.Tutorial3._1;
+using C_sharp_Language.Tutorial5;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -107,7 +108,12 @@ namespace C_sharp_Language
 
             //_2.tutorial_4_2();
 
-            @delegate.delegate_example();
+            //@delegate.delegate_example();
+            //p1.program();
+            //p2.program();
+            //p3.program();
+            //p4.program();
+            p5.program();
         }
     }
 }
