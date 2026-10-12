@@ -113,7 +113,12 @@ namespace C_sharp_Language
             //p2.program();
             //p3.program();
             //p4.program();
-            p5.program();
+            //p5.program();
+            //p6.program();
+            //p7.program();
+            //p8.program();
+            //p9.program();
+            p10.program();
         }
     }
 }
