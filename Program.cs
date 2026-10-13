@@ -118,7 +118,8 @@ namespace C_sharp_Language
             //p7.program();
             //p8.program();
             //p9.program();
-            p10.program();
+            //p10.program();
+            abstraction.program();
         }
     }
 }
