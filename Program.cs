@@ -9,6 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using static C_sharp_Language.Tutorial_4.five;
+using C_sharp_Language.Tutorial6;
 
 
 namespace C_sharp_Language
@@ -119,7 +120,13 @@ namespace C_sharp_Language
             //p8.program();
             //p9.program();
             //p10.program();
-            abstraction.program();
+            //abstraction.program();
+            //p6_1.program();
+            //p_6_2.program();
+            //p_6_3.program();
+            //p_6_4.program();
+            p_6_5.program();
+            Console.WriteLine("Gauswami Yashgiri && 25SOEIT13018");
         }
     }
 }
