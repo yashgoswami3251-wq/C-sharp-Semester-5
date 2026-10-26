@@ -125,7 +125,13 @@ namespace C_sharp_Language
             //p_6_2.program();
             //p_6_3.program();
             //p_6_4.program();
-            p_6_5.program();
+            //p_6_5.program();
+            //p_6_6.program();
+            //p_6_7.progra();
+            //p6_8.program();
+            //p6_9.program();
+            //p6_10.program();
+            p6_11.program();
             Console.WriteLine("Gauswami Yashgiri && 25SOEIT13018");
         }
     }
