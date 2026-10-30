@@ -12,17 +12,17 @@ namespace C_sharp_Language.Tutorial6
 
         static void Displayname()
         {
-            Console.WriteLine("Student Name: Yash");
+            Console.WriteLine("Student Name: John");
         }
 
         static void Displaycourse()
         {
-            Console.WriteLine("Course: C# Programming");
+            Console.WriteLine("Course: Java Programming");
         }
 
         static void Displaysemester()
         {
-            Console.WriteLine("Semester: 5th");
+            Console.WriteLine("Semester: 6th");
         }
 
 

@@ -5,11 +5,13 @@ using C_sharp_Language.Tutorial2;
 using C_sharp_Language.Tutorial3;
 using C_sharp_Language.Tutorial3._1;
 using C_sharp_Language.Tutorial5;
+using C_sharp_Language.Tutorial6;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using static C_sharp_Language.Tutorial_4.five;
-using C_sharp_Language.Tutorial6;
+using static C_sharp_Language.Tutorial6.Pro13;
+using static C_sharp_Language.Tutorial6.Pro14;
 
 
 namespace C_sharp_Language
@@ -121,6 +123,7 @@ namespace C_sharp_Language
             //p9.program();
             //p10.program();
             //abstraction.program();
+
             //p6_1.program();
             //p_6_2.program();
             //p_6_3.program();
@@ -132,9 +135,12 @@ namespace C_sharp_Language
             //p6_9.program();
             //p6_10.program();
             //p6_11.program();
+            //p6_12.program();
+            //p6_13.program();
+            p6_14.program();
             //constructor.program();
-            generic.program();
-            //Console.WriteLine("Gauswami Yashgiri && 25SOEIT13018");
+            //generic.program();
+            Console.WriteLine("Gauswami Yashgiri A. && 25SOEIT13018");
         }
     }
 }
